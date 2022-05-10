@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Benjamin Adrien <br>
-I'm a Self-Taught Front-End Developer
+I'm a Self-Taught Front-End Developer <br>
 I'm currently learning PHP
 
 
