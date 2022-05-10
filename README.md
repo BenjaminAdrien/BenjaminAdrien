@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Benjamin Adrien
+- 👋 Hi, I’m Benjamin Adrien <br>
 I'm a Self-Taught Front-End Developer
 I'm currently learning PHP
 
